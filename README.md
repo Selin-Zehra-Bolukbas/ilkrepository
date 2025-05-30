@@ -1,4 +1,4 @@
 #ilkrepository
 
-- Deneme yapıyorum
+Git & GitHub kursu ilk repository
 
