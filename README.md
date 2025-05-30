@@ -1,0 +1,4 @@
+#ilkrepository
+
+- Deneme yapıyorum
+
